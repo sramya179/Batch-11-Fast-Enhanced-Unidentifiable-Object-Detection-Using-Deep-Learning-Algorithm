@@ -4,12 +4,21 @@ Our framework detects all the objects based on training set provided to it. Main
 
 # STEPS
 Step 1 : Download the source code from github or directly open it in github. 
+
 Step 2 : Download the Python version of 3.6.
+
 Step 3 : Download the video,image required for this project.
-Step 4 : Keep everything within a folder
+
+Step 4 : Keep everything within a folder.
+
 Step 5 : Open the command prompt.
-Step 6 : Set the path to the respective location
-Step 7 : Then type "detection_video.py" in command prompt to execute the project file
+
+Step 6 : Set the path to the respective location.
+
+Step 7 : Then type "detection_video.py" in command prompt to execute the project file.
+
 Step 8 : And its starts video framing.
-Step 9 : Once video framing is done.
+
+Step 9 : Video framing is done.
+
 Step 10: Then Open the folder and the output result will be present in the folder.
